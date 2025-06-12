@@ -1,0 +1,88 @@
+Uri: https://cdn.jsdelivr.net/npm/disable-devtool@latest
+File Name: C:\Downloaded Web Sites\rbxshade.com\npm\disable-devtool@latest
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\rbxshade.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\rbxshade.com\s\poppins\v23\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\rbxshade.com\s\poppins\v23\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\rbxshade.com\s\poppins\v23\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\rbxshade.com\s\poppins\v23\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\rbxshade.com\s\poppins\v23\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Downloaded Web Sites\rbxshade.com\s\poppins\v23\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\rbxshade.com\s\poppins\v23\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\rbxshade.com\s\poppins\v23\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Downloaded Web Sites\rbxshade.com\s\poppins\v23\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://rbxshade.com/
+File Name: C:\Downloaded Web Sites\rbxshade.com\index.htm
+Content Type: text/html
+
+Uri: https://rbxshade.com/assets/logo.png
+File Name: C:\Downloaded Web Sites\rbxshade.com\assets\logo.png
+Content Type: image/png
+
+Uri: https://rbxshade.com/assets/pic1.png
+File Name: C:\Downloaded Web Sites\rbxshade.com\assets\pic1.png
+Content Type: image/png
+
+Uri: https://rbxshade.com/assets/pic2.png
+File Name: C:\Downloaded Web Sites\rbxshade.com\assets\pic2.png
+Content Type: image/png
+
+Uri: https://rbxshade.com/assets/pic3.png
+File Name: C:\Downloaded Web Sites\rbxshade.com\assets\pic3.png
+Content Type: image/png
+
+Uri: https://rbxshade.com/assets/video1.mp4
+File Name: C:\Downloaded Web Sites\rbxshade.com\assets\video1.mp4
+Content Type: video/mp4
+
+Uri: https://rbxshade.com/assets/video2.mp4
+File Name: C:\Downloaded Web Sites\rbxshade.com\assets\video2.mp4
+Content Type: video/mp4
+
+Uri: https://rbxshade.com/assets/video3.mp4
+File Name: C:\Downloaded Web Sites\rbxshade.com\assets\video3.mp4
+Content Type: video/mp4
+
+Uri: https://rbxshade.com/assets/visuals.png
+File Name: C:\Downloaded Web Sites\rbxshade.com\assets\visuals.png
+Content Type: image/png
+
+Uri: https://rbxshade.com/design.css
+File Name: C:\Downloaded Web Sites\rbxshade.com\design.css
+Content Type: text/css
+
+Uri: https://rbxshade.com/script.js
+File Name: C:\Downloaded Web Sites\rbxshade.com\script.js
+Content Type: text/javascript
+
